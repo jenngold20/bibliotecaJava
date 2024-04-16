@@ -1,55 +1,30 @@
-# Alkemy - Java - Comision 11
+# Eleva Tu Carrera Digital: Desarrollo de un Sistema de Gestión de Biblioteca
 
-### Trabajo Práctico Integrador - JAVA
-![jacachico](https://github.com/23649-Spring-Codo-a-Codo/C23649-Grupo2-TPIntegrador/assets/95290077/aa2815e1-ff65-41ad-915e-e6c46e7030e3)
-![alkemy](https://github.com/Alkemy-Java/ProyectoBiblioteca/assets/95290077/6ab69b7a-7b18-4e6f-9395-7c4d81f03e54)
+Este proyecto es una aplicación de gestión de biblioteca desarrollada en Java como parte del desafío "Eleva Tu Carrera Digital: Desarrollo de un Sistema de Gestión de Biblioteca". La aplicación permite a los usuarios administrar el inventario de libros de una biblioteca, registrar préstamos y devoluciones, y realizar búsquedas en la colección de libros.
 
+## Requerimientos del proyecto
+El proyecto cumple con los siguientes requerimientos:
 
-#### Objetivo
-El objetivo de este proyecto es desarrollar una aplicación de gestión de
-biblioteca en Java, utilizando conceptos de programación orientada a
-objetos. La aplicación permitirá a los usuarios administrar el inventario de
-libros de una biblioteca, registrar préstamos y devoluciones, y realizar
-búsquedas en la colección de libros.
+- **Clases y Objetos:** Define una estructura de clases que incluye las clases Libro y Usuario como base de la aplicación.
+- **Inventario de Libros:** Implementa un mecanismo para administrar el inventario de libros de la biblioteca.
+- **Préstamos y Devoluciones:** Desarrolla un sistema de seguimiento de préstamos y devoluciones de libros, permitiendo a los usuarios solicitar préstamos y devolver libros de manera efectiva.
+- **Búsqueda de Libros:** Proporciona una función de búsqueda que permite a los usuarios encontrar libros según criterios específicos.
+- **Interfaz de Usuario:** Crea una interfaz de usuario intuitiva que permite a los usuarios interactuar con la aplicación.
 
-#### Requerimientos generales
-1- Clases y Objetos:
-- Definir una estructura de clases que incluya al menos las clases Libro y Usuario, que servirán como la base de la aplicación.
+## Requisitos técnicos
+El proyecto cumple con los siguientes requisitos técnicos:
 
-2- Inventario de Libros:
-- Implementar un mecanismo para administrar el inventario de libros de la biblioteca.
+- Utiliza el lenguaje Java y el IDE Eclipse para su desarrollo.
+- Aplica el paradigma de orientación a objetos para la estructura lógica del proyecto.
+- Realiza pruebas exhaustivas de rendimiento y optimización.
+- Asegura la compatibilidad con los navegadores más recientes y antiguos para una experiencia de usuario fluida.
 
-3- Préstamos y Devoluciones:
-- Desarrollar un sistema de seguimiento de préstamos y devoluciones de libros.
-- Garantizar que los usuarios puedan solicitar préstamos y devolver libros de manera efectiva.
+## Desarrolladora
+- Nombre: Jennifer Goldfeld
+- Contacto: jennifer.goldfeld@gmail.com
 
-4- Búsqueda de Libros:
-- Proporcionar una función de búsqueda que permita a los usuarios encontrar libros según criterios específicos.
+## Facilitador
+- Nombre: Bruno Cano
 
-5- Interfaz de Usuario:
-- Crear una interfaz de usuario que permita a los usuarios interactuar con la aplicación.
-
-#### Requerimientos específicos
-La aplicación deberá permitir las siguientes operaciones:
-1. Clases y Objetos:
-- La clase Libro debe incluir atributos como título, autor, ISBN, género y disponibilidad.
-- La clase Usuario debe incluir atributos como nombre, número de identificación y lista de libros prestados.
-
-2. Inventario de Libros:
-- La aplicación debe permitir la adición de nuevos libros al inventario.
-
-3. Préstamos y devoluciones:
-- Los usuarios deben poder solicitar préstamos de libros.
-- Se debe llevar un registro de los libros prestados a cada usuario.
-- Los usuarios deben poder devolver los libros prestados.
-
-4. Búsqueda de Libros:
-- La función de búsqueda debe permitir a los usuarios buscar libros por título, autor o género.
-- Los resultados de la búsqueda deben mostrarse claramente
-
-5. Interfaz de Usuario:
-
-- La interfaz de usuario debe incluir opciones para agregar libros, solicitar préstamos, devolver libros y buscar libros.
-- La interfaz debe ser intuitiva y fácil de usar.
-
+## Bootcamp POO Java - Alkemy & Ministerio de Trabajo
 
